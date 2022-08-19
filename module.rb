@@ -5,7 +5,13 @@ module MyEnumerable
     puts result
   end
 
-  def any?; end
+  def any?
+    result = false
+    each { |num| result = true if yield(num) }
+    puts result
+  end
+
+
 
   def filter; end
 end
