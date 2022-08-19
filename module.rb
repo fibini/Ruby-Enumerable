@@ -11,7 +11,9 @@ module MyEnumerable
     puts result
   end
 
-
-
-  def filter; end
+  def filter
+    result = []
+    each { |num| result.push(num) if yield(num) }
+    print result
+  end
 end
