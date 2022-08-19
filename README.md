@@ -1,15 +1,14 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Enumerable Creation
+In this project ywe learnt how to use a module inside your class. we created a class MyList and a module MyEnumerable. The module MyEnumerable implements a subset of the functionality of Enumerable.
 
 > Description the project.
 
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- Ruby
 
 ## Live Demo (if available)
 
@@ -17,7 +16,7 @@
 
 
 ## Getting Started
-In this project ywe learnt how to use a module inside your class. we created a class MyList and a module MyEnumerable. The module MyEnumerable implements a subset of the functionality of Enumerable.
+
 
 To get a local copy up and running follow these simple example steps.
 
