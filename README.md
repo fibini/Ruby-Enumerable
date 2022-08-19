@@ -1,15 +1,12 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
-
-> Description the project.
+# Enumerable Creation
+In this project we learnt how to use a module inside classes. we created a class MyList and a module MyEnumerable. The module MyEnumerable implements a subset of the functionality of Enumerable.
 
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- Ruby
 
 ## Live Demo (if available)
 
@@ -17,9 +14,6 @@
 
 
 ## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
 
 
 To get a local copy up and running follow these simple example steps.
@@ -40,18 +34,23 @@ To get a local copy up and running follow these simple example steps.
 
 ## Authors
 
-👤 **Author1**
+👤 **Giuseppe Tomasini**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@GiuseppeTG](https://github.com/GiuseppeTG)
+- Twitter: [@giusetomasini](https://twitter.com/giusetomasini)
+- LinkedIn: [Giuseppe Tomasini](https://www.linkedin.com/in/giuseppe-tomasini-67ba101a8/)
 
-👤 **Author2**
+👤 **Morris Menanya**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@emmykage](https://github.com/Emmykage)
+- Twitter: [@emmykage](https://twitter.com/omayiobenj)
+- LinkedIn: [Menanya Morris](https://www.linkedin.com/in/morris-menanya-a51985104/)
 
+👤 **Fabien Brathwaite**
+
+- GitHub: [@fibini](https://github.com/fibini)
+- Twitter: [@Onenewpage1](https://twitter.com/Onenewpage1)
+- LinkedIn: [fabien brathwaite](https://www.linkedin.com/in/fabien-brathwaite-91150822a/)
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
