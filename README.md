@@ -1,9 +1,7 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
 # Enumerable Creation
-In this project ywe learnt how to use a module inside your class. we created a class MyList and a module MyEnumerable. The module MyEnumerable implements a subset of the functionality of Enumerable.
-
-> Description the project.
+In this project we learnt how to use a module inside classes. we created a class MyList and a module MyEnumerable. The module MyEnumerable implements a subset of the functionality of Enumerable.
 
 
 ## Built With
